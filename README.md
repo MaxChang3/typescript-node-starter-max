@@ -19,9 +19,9 @@ feature: Write in esm and alias, Compile to esm
 Dev: nodemon & tsc & tsc-alias
 Build: tsc & tsc-alias
 
-Advantage: slow
+Advantage: all is well!
 
-Disadvantage: null
+Disadvantage: slow
 
 ## starter-alias-esm-dev
 feature: Write in esm and alias, Compile to esm
