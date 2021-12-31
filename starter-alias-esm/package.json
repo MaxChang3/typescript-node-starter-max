@@ -1,0 +1,17 @@
+{
+  "name": "typescript-node-starter-alias-esm",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon",
+    "build": "tsc && tsc-alias"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.5",
+    "nodemon": "^2.0.15",
+    "tsc-alias": "^1.5.0",
+    "typescript": "^4.5.4"
+  }
+}
