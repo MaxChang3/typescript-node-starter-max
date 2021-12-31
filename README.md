@@ -18,5 +18,7 @@ Build: tsc & tsc-alias
 ## starter-alias-esm-dev
 feature: Write in esm and alias , Compile to esm
 
+> not recommend to use because [this](https://github.com/antfu/vite-node#when-not-to-use)
+
 Dev: nodemon & vite-node
 Build: tsc & tsc-alias
